@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Sakai-vue 4.3.0 admin dashboard template from primefaces port to nuxt 3.
+Sakai-vue 4.3.0 admin dashboard empty template from primefaces port to nuxt 3 with typescript.
 
 ## Setup
 
